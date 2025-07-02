@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+python-dotenv
+langchain_core
+langgraph
+openai
+langchain-tavily
+wikipedia
