@@ -9,3 +9,5 @@ langgraph
 openai
 langchain-tavily
 wikipedia
+fpdf
+python-docx

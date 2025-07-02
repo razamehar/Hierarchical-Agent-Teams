@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -84,3 +85,5 @@ ENV/
 .env
 .idea
 .idea/
+output
+output/
