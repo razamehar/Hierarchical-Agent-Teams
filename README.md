@@ -71,11 +71,11 @@ Manages:
 - finance_research_tool
 - general_research_tool
 
-### Document Tools
-- save_doc_tool: Save text in .pdf, .doc, or .docx format
-
 ### Summarizer
 - get_summary: Generates a 300-word summary
+
+### Document Tools
+- save_doc_tool: Save text in .pdf, .doc, or .docx format
 
 ## Requirements
 Install dependencies using:
