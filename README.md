@@ -30,8 +30,6 @@ A modular, multi-agent AI system built using [LangGraph](https://github.com/lang
 └── README.md
 ```
 
----
-
 ## How It Works
 
 ### `main.py`
@@ -52,7 +50,7 @@ Manages:
 - research_agent: performs web-based information retrieval
 - math_agent: handles all arithmetic using separate tools
 
-## 🧩 Agents and Responsibilities
+## Agents and Responsibilities
 
 | Agent              | Description                                                   |
 | ------------------ | ------------------------------------------------------------- |
