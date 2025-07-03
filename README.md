@@ -38,6 +38,13 @@ Interactive console interface. Type a query and watch the agent hierarchy handle
 ```python
 Query: How has Tesla stock performed in the last year?
 ```
+## How to run
+- Add `langchain_openai` to the `requirements.txt` file
+- Add your own `.env` file and add the `OPENAI_API_KEY` there
+- Create a venv
+- Activate venv
+- Install the requirements inside the venv
+- Run command `python main.py`
 
 ## Top-Level Supervisor
 Coordinates the entire agent ecosystem:
