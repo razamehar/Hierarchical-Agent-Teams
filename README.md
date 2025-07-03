@@ -59,7 +59,6 @@ Manages:
 | `research_agent`   | Searches online using Tavily (general + finance).             |
 | `summary_agent`    | Summarizes large chunks of text using GPT.                    |
 
-
 ## Tools
 
 ### Math Tools
@@ -71,7 +70,7 @@ Manages:
 ### Research Tools
 - finance_research_tool
 - general_research_tool
-- 
+
 ### Document Tools
 - save_doc_tool: Save text in .pdf, .doc, or .docx format
 
