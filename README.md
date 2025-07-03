@@ -53,11 +53,11 @@ Manages:
 ## Agents and Responsibilities
 
 | Agent              | Description                                                   |
-| ------------------ | ------------------------------------------------------------- |
+| ------------------ |---------------------------------------------------------------|
 | `math_agent`       | Performs addition, subtraction, multiplication, and division. |
-| `doc_saving_agent` | Saves results in `.pdf` or `.docx` format.                    |
 | `research_agent`   | Searches online using Tavily (general + finance).             |
 | `summary_agent`    | Summarizes large chunks of text using GPT.                    |
+| `doc_saving_agent` | Saves results in `.pdf` or `.docx` format.                    |
 
 ## Tools
 
